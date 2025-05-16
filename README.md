@@ -2,8 +2,8 @@
 <h3 align="center">
 <p> FOCUS: Evaluating Pre-trained Vision-Language Models on Underspecification Reasoning
 </h3>
-The dataset can be downloaded via below link:
-<To be updated soon>
+The dataset can be uploaded soon
+
 
 
 
